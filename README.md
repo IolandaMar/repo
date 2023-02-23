@@ -1,1 +1,2 @@
 Primer fitxer al primer repositori de Iolanda Martínez Santolaria
+5)	Afegir els comentaris si no els heu posat, i si els heu posat modifiqueu-ne algun. Finalment tancar amb un 3r commit a la rama master.
