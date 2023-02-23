@@ -13,7 +13,7 @@ public class Apartat2 {
             double estalviDiari = souPere * 0.1;
             int diesNecessaris = (int) Math.ceil(preuFinal / estalviDiari);
 
-            System.out.println("En Pere ha d'estalviar durant " + diesNecessaris + " dies");
+            System.out.println("En Pere ha d'estalviar durant " + diesNecessaris + " dies" "(per poder pagar-se el tabac)");
         }
     }
 
